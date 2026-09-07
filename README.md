@@ -8,3 +8,7 @@ Hello! I am Bhoomika, an engineering student.
  Intrested in cloud computing
 
  Goal: contribute to open source
+
+ 
+ ## Projects
+I am planning to build a Student Expense Tracker using Python.
