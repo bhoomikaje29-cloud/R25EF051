@@ -6,3 +6,5 @@ Hello! I am Bhoomika, an engineering student.
  Learning Python
 
  Intrested in cloud computing
+
+ Goal: contribute to open source
